@@ -1,0 +1,22 @@
+tag <html></html> vai ser onde nosso codigo eh escrito
+
+tag <head></head> eh onde armazena metadados da pagina html
+
+tag <title></title> adiciona um titulo a pagina
+
+tag <body></body> vai ser onde nosso codigo vai ser escrito
+
+tag <h1></h1> escreve um titulo
+tag <h2></h2> escreve um subtitulo
+
+tag <p></p> escreve um paragrafo
+
+tag <img src="" alt=""> adiciona uma imagem ao codigo obs: nao tem fechamento
+
+tag <header></header> 
+
+tag <main></main> onde fica o codigo principal
+
+tag <footer></footer> onde fica nosso conteudo na parte debaixo
+
+tag <a href="http://"></a> adiciona um link
